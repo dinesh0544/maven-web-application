@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.151.227.201:9000/</sonar.host.url>
+		<sonar.host.url>http://54.151.195.191:9000/</sonar.host.url>
 		<sonar.login>squ_5b56dc4b24806ca4299ff72fe6d0207a286e0914</sonar.login>
 		
 		
@@ -101,13 +101,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICI Bank Releases </name>
+	      <name> icicbank-Release </name>
 	      <url>http://3.10.213.61:9980/Dinesh/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI Bank Snapshot </name>
+	      <name> icicbank-snapshot </name>
 	      <url>http://3.10.213.61:9980/Dinesh/repository/icicbank-snapshot/</url>
 	    </snapshotRepository>
 	    
