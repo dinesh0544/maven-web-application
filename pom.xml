@@ -101,14 +101,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICI Bank Releases Nexus Repository</name>
-	      <url>http://13.43.136.182:9980/jyothsna/repository/icicibank-release/</url>
+	      <name>ICICI Bank Releases </name>
+	      <url>http://3.10.213.61:9980/Dinesh/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI Bank Snapshot Nexus Repository</name>
-	      <url>http://13.43.136.182:9980/jyothsna/repository/icicibank-snapshot/</url>
+	      <name>ICICI Bank Snapshot </name>
+	      <url>http://3.10.213.61:9980/Dinesh/repository/icicbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
