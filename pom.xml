@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.229.237.166:9000/</sonar.host.url>
+		<sonar.host.url>http://54.169.42.150:9000/</sonar.host.url>
 		<sonar.login>squ_5b56dc4b24806ca4299ff72fe6d0207a286e0914</sonar.login>
 		
 		
@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICIC Bank Releases Nexus Repository</name>
-	      <url>http://52.56.64.70:9980/Dinesh/repository/yesbank-release/</url>
+	      <url>http://13.43.136.82:9980/Dinesh/repository/yesbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICIC Bank Snapshot Nexus Repository</name>
-	      <url>http://52.56.64.70:9980/Dinesh/repository/yesbank-snapshot//</url>
+	      <url>http://13.43.136.82:9980/Dinesh/repository/yesbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
